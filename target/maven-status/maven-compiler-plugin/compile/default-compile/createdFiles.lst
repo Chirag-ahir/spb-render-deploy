@@ -1,0 +1,3 @@
+com\spb\SpbRenderDeployApplication.class
+com\spb\model\Customer.class
+com\spb\controller\CustomerController.class
